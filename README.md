@@ -1,2 +1,6 @@
-# keres
-Edge node implementations interfacing with Achlys clusters
+# Keres
+## Edge node implementations interfacing with Achlys clusters
+
+
+*Hesiod, Shield of Heracles 237 ff :
+"[From a war-scene depicted on the shield of Herakles :] There were men fighting in warlike harness, some defending their own town and parents from destruction, and others eager to sack it; many lay dead, but the greater number still strove and fought . . . and behind them the dusky Keres, gnashing their white fangs, lowering, grim, bloody, and unapproachable, struggled for those who were falling, for they all were longing to drink dark blood. So soon as they caught a man overthrown or falling newly wounded, one of them would clasp her great claws about him, and his soul would go down to Haides to chilly Tartaros. And when they had satisfied their souls with human blood, they would cast that one behind them, and rush back again into the tumult and the fray. [The Moirai (Fates)] Klotho (Clotho) and Lakhesis (Lachesis) were over them and Atropos less tall than they, a goddess of no great frame, yet superior to the others and the eldest of them. And they [the **Keres**] all made a fierce fight over one poor wretch, glaring evilly at one another with furious eyes and fighting equally with claws and hands. By them stood Akhlys ([**Achlys**](https://ikopest.me)), mournful and fearful, pale, shrivelled, shrunk with hunger, swollen-kneed. Long nails tipped her hands, and she dribbled at the nose, and from her cheeks blood dripped down to the ground. She stood leering hideously, and much dust sodden with tears lay upon her shoulders."*
